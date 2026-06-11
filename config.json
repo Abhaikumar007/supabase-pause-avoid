@@ -3,12 +3,12 @@
     "name": "Database1",
     "supabase_url": "https://inmdfsnupkennvquwugc.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
-    "table_name": "keep-alive"
+    "table_name": "keep_alive"
   },
   {
     "name": "Database2",
     "supabase_url": "https://fliozfydpgygmisocvcx.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_2",
-    "table_name": "keep-alive"
+    "table_name": "keep_alive"
   }
 ]
